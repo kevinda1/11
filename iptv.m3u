@@ -24,6 +24,20 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?zgangd
 #EXTINF:-1 group-title="港澳台",台湾综艺-深夜保健室探讨情趣用品
 https://bf.kokcdn.com/20230411/MlAZjwoQ/index.m3u8
 
+#EXTINF:-1  group-title="港澳台",东森财经
+rtmp://9sv2.mine.nu/sat/tv571
+#EXTINF:-1 group-title="港澳台",东森洋片
+http://162.19.247.76:22222/live/dsypt/index.m3u8#
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森戏剧台" tvg-id="东森戏剧台" tvg-name="东森戏剧台"  group-title="港澳台",东森戏剧台
+http://162.19.247.76:22222/live/dsxj/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森超视" tvg-id="东森超视" tvg-name="东森超视" group-title="港澳台",东森超视
+rtmp://9sv2.mine.nu/sat/tv331
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森超视" tvg-id="东森超视" tvg-name="东森超视" group-title="港澳台",东森超视
+http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1  group-title="港澳台",东森电影
+http://107.151.203.111:2209/135/hk.php?id=dsdyt
+#EXTINF:-1  group-title="港澳台",东森电影
+http://162.19.247.76:22222/live/dsdyt/index.m3u8
 
 
 
