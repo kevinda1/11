@@ -9,20 +9,6 @@ http://120.132.122.244:59847/hls/82/index.m3u8
 https://dispatchnew.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&token=c0vzuc7wqkzk
 #EXTINF:-1 group-title="港澳台",J2 4K
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://113.117.74.17:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://113.117.74.18:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="港澳台",香港电影
-http://epg.112114.xyz/huya/11602058
-#EXTINF:-1 group-title="港澳台",香港国际财经
-https://dispatchnew.ulivetv.net/v/live/ccnrz68enhz4.m3u8?stream_id=ccnrz68enhz4&token=c0vzuc7wqkzk
-#EXTINF:-1 group-title="港澳台",MTV台湾
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_1400.m3u8
-#EXTINF:-1 group-title="港澳台",台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?zgangd
-#EXTINF:-1 group-title="港澳台",台湾综艺-深夜保健室探讨情趣用品
-https://bf.kokcdn.com/20230411/MlAZjwoQ/index.m3u8
 
 #EXTINF:-1  group-title="港澳台",东森财经
 rtmp://9sv2.mine.nu/sat/tv571
@@ -38,6 +24,22 @@ http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
 http://107.151.203.111:2209/135/hk.php?id=dsdyt
 #EXTINF:-1  group-title="港澳台",东森电影
 http://162.19.247.76:22222/live/dsdyt/index.m3u8
+
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://113.117.74.17:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://113.117.74.18:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="港澳台",香港电影
+http://epg.112114.xyz/huya/11602058
+#EXTINF:-1 group-title="港澳台",香港国际财经
+https://dispatchnew.ulivetv.net/v/live/ccnrz68enhz4.m3u8?stream_id=ccnrz68enhz4&token=c0vzuc7wqkzk
+#EXTINF:-1 group-title="港澳台",MTV台湾
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_1400.m3u8
+#EXTINF:-1 group-title="港澳台",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台",台湾综艺-深夜保健室探讨情趣用品
+https://bf.kokcdn.com/20230411/MlAZjwoQ/index.m3u8
+
 
 
 
