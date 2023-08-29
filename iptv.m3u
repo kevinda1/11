@@ -10,6 +10,28 @@ https://dispatchnew.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&
 #EXTINF:-1 group-title="港澳台",J2 4K
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+rtmp://9sv2.mine.nu/sat/tv551
+#EXTINF:-1 group-title="港澳台",TVBS欢乐
+rtmp://9sv2.mine.nu/sat/tv421
+#EXTINF:-1 group-title="港澳台",tvbs新闻台
+rtmp://218.32.29.20/sat/tv551
+#EXTINF:-1 group-title="港澳台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS亞洲台
+http://sc2022.stream-link.org/tv2306.php?id=t16
+#EXTINF:-1 group-title="港澳台",TVBS欢乐
+https://fsv4.yj011.net/sat/tv421.flv
+#EXTINF:-1 group-title="港澳台",TVBS亞洲台
+https://sc2022.stream-link.org/tv2306.php?id=t16
+#EXTINF:-1 group-title="港澳台",TVBS財經
+https://sc2022.stream-link.org/tv2306.php?id=t14
+#EXTINF:-1 group-title="港澳台",TVBS新聞
+https://fsv4.yj011.net/sat/tv551.flv
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+rtmp://9sv2.mine.nu/sat/tv551.flv
+
+
 #EXTINF:-1  group-title="港澳台",东森财经
 rtmp://9sv2.mine.nu/sat/tv571
 #EXTINF:-1 group-title="港澳台",东森洋片
