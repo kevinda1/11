@@ -13,7 +13,6 @@ http://113.117.74.22:8081/hls/135/index.m3u8
 http://113.117.74.29:8081/hls/26/index.m3u8
 #EXTINF:-1 group-title="港澳台",J2 4K
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
-
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中视" tvg-id="中视" tvg-name="中视" group-title="港澳台",中视
 rtmp://218.32.29.20/sat/tv091
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中视" tvg-id="中视" tvg-name="中视" group-title="港澳台",中视
@@ -22,15 +21,8 @@ http://162.19.247.76:22222/live/zhongshi/index.m3u8#rtmp://9wv7.mine.nu/sat/tv09
 http://211.72.65.236:8511/http/116.50.42.19:8081/hls/72/814/ch46.m3u8
 #EXTINF:-1 group-title="港澳台",台视新闻 HD
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-
 #EXTINF:-1 group-title="港澳台",纬来篮球
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-
-
-
-
-#EXTINF:-1  group-title="港澳台",东森财经
-rtmp://9sv2.mine.nu/sat/tv571
 #EXTINF:-1 group-title="港澳台",东森洋片
 http://162.19.247.76:22222/live/dsypt/index.m3u8#
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森戏剧台" tvg-id="东森戏剧台" tvg-name="东森戏剧台"  group-title="港澳台",东森戏剧台
@@ -43,7 +35,6 @@ http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
 http://107.151.203.111:2209/135/hk.php?id=dsdyt
 #EXTINF:-1  group-title="港澳台",东森电影
 http://162.19.247.76:22222/live/dsdyt/index.m3u8
-
 #EXTINF:-1 group-title="港澳台",凤凰香港
 http://113.117.74.17:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰香港
@@ -58,6 +49,36 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_1400.
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?zgangd
 #EXTINF:-1 group-title="港澳台",台湾综艺-深夜保健室探讨情趣用品
 https://bf.kokcdn.com/20230411/MlAZjwoQ/index.m3u8
+
+
+#EXTINF:-1 group-title="影视台",CHC动作电影
+http://111.20.40.166/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="影视台",峨眉电影
+http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="影视台",动画电影
+http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key
+#EXTINF:-1 group-title="影视台",YY电影2
+http://data.3g.yy.com/live/hls/1382745114/1382745114
+#EXTINF:-1 group-title="影视台",YY电影2
+http://data.3g.yy.com/live/hls/1382749948/1382749948
+#EXTINF:-1 group-title="影视台",YY电影3
+http://data.3g.yy.com/live/hls/1354931577/1354931577
+#EXTINF:-1 group-title="影视台",YY电影9
+http://data.3g.yy.com/live/hls/1355497884/1355497884
+#EXTINF:-1 group-title="影视台",YY电影7
+http://data.3g.yy.com/live/hls/1382736857/1382736857
+#EXTINF:-1 group-title="影视台",YY电影14
+http://data.3g.yy.com/live/hls/1382749917/1382749917
+#EXTINF:-1 group-title="影视台",YY电影18
+http://data.3g.yy.com/live/hls/1354952229/1354952229
+#EXTINF:-1 group-title="影视台",YY电影25
+http://data.3g.yy.com/live/hls/38498680/38498680
+#EXTINF:-1 group-title="影视台",YY电影30
+http://data.3g.yy.com/live/hls/1353059120/1353059120
+#EXTINF:-1 group-title="影视台",湖南电影
+http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 
 
