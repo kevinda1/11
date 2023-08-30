@@ -14,6 +14,10 @@ http://113.117.74.29:8081/hls/26/index.m3u8
 #EXTINF:-1 group-title="港澳台",J2 4K
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中视" tvg-id="中视" tvg-name="中视" group-title="港澳台",中视
+rtmp://218.32.29.20/sat/tv091
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中视" tvg-id="中视" tvg-name="中视" group-title="港澳台",中视
+http://162.19.247.76:22222/live/zhongshi/index.m3u8#rtmp://9wv7.mine.nu/sat/tv091
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/台视" tvg-id="台视" tvg-name="台视" group-title="港澳台",台视
 http://211.72.65.236:8511/http/116.50.42.19:8081/hls/72/814/ch46.m3u8
 #EXTINF:-1 group-title="港澳台",台视新闻 HD
